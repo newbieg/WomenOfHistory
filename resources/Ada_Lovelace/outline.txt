@@ -1,7 +1,8 @@
 Ada Lovelace
 
-* Her father was Lord Byron, famous English poet.
-1. Known as the world's first computer programmer (died 94 years before the Eniac)
-2. First to consider that a machine that could calculate arbitrary numbers could also be used to represent real world entities.
-3. Adimantly defended Babbages' Analytical Engine.
+- Her father was Lord Byron, famous English poet.
+- Known as the world's first computer programmer (died 94 years before the Eniac)
+- "Who would have thought that a summer field trip with her tutor might lead to 18 year old Ada becoming ..."
+- First to consider that a machine that could calculate arbitrary numbers could also be used to represent real world entities.
+- Adimantly defended Babbages' Analytical Engine.
 
