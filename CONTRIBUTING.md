@@ -8,7 +8,7 @@ Some ancient Goddesses and similar may ultimately be addressed under this rule.
 
 Provide links to resources wherever possible; while a description of how you find this subject personally interesting is certainly accepted and imprtant to the reader, the goal often is to inspire further interest of the reader. We want the reader to be left wanting to learn more about our subject and to provide ways to do so.
 
-Length of an article should be between 3 to 10 printed pages (400 words per page, or 200 words and a good picture). If the subject is of incredible importance to you and 10 pages is not enough, that's OK, just make sure the writing is of clear quality beyond that point.
+Length of an article should be between 2 to 10 printed pages (400 words per page, or 200 words and a good picture). If the subject is of incredible importance to you and 10 pages is not enough, that's OK, just make sure the writing is of clear quality beyond that point.
 
 Wikipedia is absolutely fine as a resource, but no copy-paste except for statistics or factual information that can't be reworked.
 Images are only acceptable if they are public domain or creative commons or similar license.
