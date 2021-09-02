@@ -18,6 +18,7 @@ All writing in this project should be considered open source and in the creative
 If this book is ever published on Amazon I would like a way to share the profits with you. In such a case I will try to contact you through github. Amounts would be based on percentage of subjects covered, quality of work, and pages contributed. If instead you would like your share of the profits to go to a charity, please also indicate this near your signature line as such:
 
 -Author: Your Name
+
 -Charity of choice: MyPreferedCharity.com
 
 
