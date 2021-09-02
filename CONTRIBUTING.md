@@ -2,7 +2,7 @@ The goal of this project is to be a pseudo documentary for each subject in quest
 Our audience is pointed toward adult readers with little to no knowledge about the subject. "I've heard about Amelia Earhart, but only that she crashed and was never found..."
 We want to inject interest in the topic.
 
-If a tall-tail exists about a person, and is important to the person's story, then it can be included in the section. Please Indicate that that portion is likely hear-say or indicate is with "As legend has it" or other key phrase.
+If a tall-tail exists about a person, and is important to the person's story, then it can be included in the section. Please Indicate that that portion is likely hear-say or indicate it is with "As legend has it" or other key phrase.
 Some of the women in this project may be completely fictional, such as Hua Mulan. Such a story is acceptable if it is important to the society that such a legend is told. An explanation of how you think it changed society is greatly appreciated. 
 Some ancient Goddesses and similar may ultimately be addressed under this rule.
 
