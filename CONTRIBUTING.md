@@ -14,6 +14,6 @@ Wikipedia is absolutely fine as a resource, but no copy-paste except for statist
 Images are only acceptable if they are public domain or creative commons or similar license.
 Please, no plageurism. I don't want to have to invest in a plageurism detector, this is not a funded project to date.
 
-All writing in this project should be considered open source and in the creative commons with attribution, please feel free to sign your work. 
+All writing in this project should be considered open source and in the creative commons with attribution, please feel free and encouraged to sign your work as an author. 
 
 Thank you to anyone who choses to contribute to this project.
